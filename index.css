@@ -1,0 +1,43 @@
+.gaya-bebas {
+  color: blue;
+  background-color: aqua;
+  font-size: 50px;
+}
+
+p {
+  color: brown;
+}
+
+#text-id {
+  color: blue;
+}
+
+.gambar {
+  height: 250px;
+  aspect-ratio: 1/1;
+}
+
+
+table {
+  border: 1px solid black;
+}
+
+td {
+  border: 1px solid black;
+}
+
+.pertama .kedua {
+  color: aqua;
+}
+
+.keempat .kedua {
+  color: red;
+}
+
+.pertama .ketiga {
+  color: aquamarine;
+}
+
+.keempat .ketiga {
+  color: blueviolet;
+}
